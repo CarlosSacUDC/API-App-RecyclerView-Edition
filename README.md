@@ -14,8 +14,6 @@ If I had to describe this project in three (3) emojis, they would be: **🤔⛹�
 
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
@@ -38,12 +36,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/iXkQYtK.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
 ## Notes
 
@@ -51,7 +44,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Carlos Sac**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
