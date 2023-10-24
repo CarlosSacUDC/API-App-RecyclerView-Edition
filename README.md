@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **displays a scrollable list of NBA players and their teams from the [SportsData API](https://sportsdata.io/developers/api-documentation/nba)**
+**Your Next Pick** is an android app that **displays a scrollable list of NBA players and their teams from the [SportsData API](https://sportsdata.io/developers/api-documentation/nba)**
 
 If I had to describe this project in three (3) emojis, they would be: **🤔⛹🏽‍♂️🤯**
 
