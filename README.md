@@ -2,15 +2,15 @@
 
 # AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: **Your Name Here**
+Submitted by: **Carlos Sac**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**Name of your app** is an android app that **displays a scrollable list of NBA players and their teams from the SportsData API**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🤔⛹🏽‍♂️🤯**
 
 ## Application Features
 
@@ -18,15 +18,15 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Implement a RecyclerView to display a list of entries from the API
-- [ ] Display at least three (3) pieces of data for each RecyclerView item
+- [x] Make an API call to an API of your choice using AsyncHTTPClient
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
 - [ ] Add a UI element for the user to interact with API further
 - [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [x] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/iXkQYtK.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
