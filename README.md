@@ -19,16 +19,7 @@ The following REQUIRED features are completed:
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
 - [x] Implement a RecyclerView to display a list of entries from the API
 - [x] Display at least three (3) pieces of data for each RecyclerView item
-
-The following STRETCH features are implemented:
-
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
 - [x] Add item dividers with `DividerItemDecoration`
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -37,10 +28,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://i.imgur.com/iXkQYtK.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
-
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
